@@ -4,7 +4,7 @@
   "description": "Sample token crowdsale using Zeppelin",
   "main": "index.js",
   "scripts": {
-    "test": "truffle test"
+    "test": "./node_modules/truffle/cli.js test"
   },
   "author": "Manuel Araoz <manuelaraoz@gmail.com>",
   "license": "MIT",
@@ -13,6 +13,7 @@
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-stage-2": "^6.22.0",
     "babel-preset-stage-3": "^6.22.0",
-    "babel-register": "^6.23.0"
+    "babel-register": "^6.23.0",
+    "truffle": "^3.1.9"
   }
 }
