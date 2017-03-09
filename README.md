@@ -14,5 +14,6 @@ npm install
 truffle install zeppelin
 
 # run tests
+testrpc&
 npm test
 ```
