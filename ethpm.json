@@ -1,0 +1,23 @@
+{
+  "package-name": "sample-crowdsale",
+  "version": "1.0.0",
+  "description": "Sample token crowdsale using Zeppelin",
+  "authors": [
+    "Manuel Araoz <manuelaraoz@gmail.com>"
+  ],
+  "keywords": [
+    "sample",
+    "crowdsale",
+    "token",
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "zeppelin"
+  ],
+  "dependencies": {
+    "zeppelin": "^1.0.4"
+  },
+  "license": "MIT"
+}
