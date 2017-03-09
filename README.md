@@ -11,7 +11,7 @@ npm install -g truffle@beta
 
 # install dependencies
 npm install
-truffle install
+truffle install zeppelin
 
 # run tests
 npm test
